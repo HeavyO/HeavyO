@@ -11,7 +11,7 @@
 ![TestLink](https://img.shields.io/badge/TestLink-%23C40010?style=for-the-badge&logo=testlink&logoColor=%23FFFFFF&color=%230A0D13)
 ![SoapUI](https://img.shields.io/badge/SoapUI-%23100000?style=for-the-badge&logo=soapui&logoColor=%23E4BFBF&color=%230A0D13)
 ![CharlesProxy](https://img.shields.io/badge/CharlesProxy-%233A3A3A?style=for-the-badge&logo=charlesproxy&logoColor=%23FFFFFF&color=%230A0D13)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23ffffff&color=%230A0D13)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23FFFFFF&color=%230A0D13)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23FFFFFF&color=%230A0D13)
 ![Loadrunner](https://img.shields.io/badge/Loadrunner-%23FF8C00?style=for-the-badge&logo=microfocus&logoColor=%23FFFFFF&color=%230A0D13)
 ![Gatling](https://img.shields.io/badge/Gatling-%23FF4500?style=for-the-badge&logo=gatling&logoColor=%23FFFFFF&color=%230A0D13)
