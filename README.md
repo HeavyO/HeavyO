@@ -3,6 +3,7 @@
 ## Here's my resume!
 [Link to my CV](https://drive.google.com/file/d/1ifuFhIPVT4Vq5HEmPWKTfyj5uIxmqMYv/view?usp=share_link)
 ## Language and Tools
+![Jira](https://img.shields.io/badge/Jira-%230A0D13?style=for-the-badge&logo=jira&logoColor=%23136be1&color=%230A0D13)
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xN1LU)
