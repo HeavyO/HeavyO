@@ -1,4 +1,4 @@
-[![Header](https://github.com/HeavyO/HeavyO/blob/main/Udovychenko.png)
+[![Alt Text](https://github.com/HeavyO/HeavyO/blob/main/Udovychenko.png)](ссылка)
 <img src="url" alt="Alt Text" style="pointer-events: none;">
 ## Hello ! I'm a QA Engineer !
 ## Here's my resume!
