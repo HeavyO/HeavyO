@@ -8,6 +8,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&color=%230A0D13)
 ![TestRail](https://img.shields.io/badge/TestRail-%231B2D42?style=for-the-badge&logo=testrail&logoColor=%23FFFFFF&color=%230A0D13)
 ![DevTools](https://img.shields.io/badge/DevTools-%23232F3E?style=for-the-badge&logo=devtools&logoColor=%23F7DF1E&color=%230A0D13)
+[![DevTools](https://img.shields.io/badge/DevTools-%23232F3E?style=for-the-badge&logo=googlechrome&logoColor=%23136be1&color=%230A0D13)]()
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xN1LU)
