@@ -1,7 +1,7 @@
 [![Header](https://github.com/HeavyO/HeavyO/blob/main/Udovychenko.png)](#)
 ## Hello ! I'm a QA Engineer !
 ## Here's my resume!
-[Link to my CV](https://drive.google.com/file/d/1ifuFhIPVT4Vq5HEmPWKTfyj5uIxmqMYv/view?usp=share_link)
+[![Link to my CV](https://img.shields.io/badge/Link%20to%20my%20CV-%234285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ifuFhIPVT4Vq5HEmPWKTfyj5uIxmqMYv/view?usp=share_link)
 ## Language and Tools
 ![Jira](https://img.shields.io/badge/Jira-%230A0D13?style=for-the-badge&logo=jira&logoColor=%23136be1&color=%230A0D13)
 ![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=%23FF6C37&color=%230A0D13)
