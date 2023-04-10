@@ -4,9 +4,9 @@
 [Link to my CV](https://drive.google.com/file/d/1ifuFhIPVT4Vq5HEmPWKTfyj5uIxmqMYv/view?usp=share_link)
 ## Language and Tools
 ![Jira](https://img.shields.io/badge/Jira-%230A0D13?style=for-the-badge&logo=jira&logoColor=%23136be1&color=%230A0D13)
-![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=%23FF6C37&color=%23000000)
+![Postman](https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=%23FF6C37&color=%230A0D13)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF&color=%230A0D13)
-![TestRail](https://img.shields.io/badge/TestRail-%231B2D42?style=for-the-badge&logo=testrail&logoColor=%23FFFFFF&color=%231B2D42)
+![TestRail](https://img.shields.io/badge/TestRail-%231B2D42?style=for-the-badge&logo=testrail&logoColor=%23FFFFFF&color=%230A0D13)
 ![DevTools](https://img.shields.io/badge/DevTools-%23232F3E?style=for-the-badge&logo=googlechrome&logoColor=%23136be1&color=%230A0D13)
 ![TestLink](https://img.shields.io/badge/TestLink-%23C40010?style=for-the-badge&logo=testlink&logoColor=%23FFFFFF&color=%230A0D13)
 ![SoapUI](https://img.shields.io/badge/SoapUI-%23100000?style=for-the-badge&logo=soapui&logoColor=%23E4BFBF&color=%230A0D13)
