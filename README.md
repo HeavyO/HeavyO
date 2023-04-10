@@ -1,4 +1,5 @@
 ![Header](https://github.com/HeavyO/HeavyO/blob/main/Udovychenko.png)
+<img src="url" alt="Alt Text" style="pointer-events: none;">
 ## Hello ! I'm a QA Engineer !
 ## Here's my resume!
 [Link to my CV](https://drive.google.com/file/d/1ifuFhIPVT4Vq5HEmPWKTfyj5uIxmqMYv/view?usp=share_link)
