@@ -5,4 +5,4 @@
 ## Language and Tools
 
 ## Contacts
-[![Header](https://img.shields.io/badge/-telegram-RGB(0%2C%20136%2C%20204))](https://t.me/xN1LU)
+[![Header](https://img.shields.io/badge/-telegram-%230088cc)](https://t.me/xN1LU)
